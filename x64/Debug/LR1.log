@@ -1,0 +1,6 @@
+﻿  LR1.cpp
+F:\КАЛледж\Практика з Програмування\LR1\LR1\LR1.cpp(7,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\КАЛледж\Практика з Програмування\LR1\LR1\LR1.cpp(7,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\КАЛледж\Практика з Програмування\LR1\LR1\LR1.cpp(7,48): warning C4309: 'initializing': truncation of constant value
+F:\КАЛледж\Практика з Програмування\LR1\LR1\LR1.cpp(22,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  LR1.vcxproj -> F:\КАЛледж\Практика з Програмування\LR1\x64\Debug\LR1.exe
